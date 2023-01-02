@@ -1,8 +1,14 @@
 [
   {
-    "name": "",
-    "path": "",
-    "component": "/home/riaan/WebstormProjects/mastering-nuxt/node_modules/@nuxt/vue-app/template/pages/index.vue",
-    "_name": "_4131fe3c"
+    "name": "home-id",
+    "path": "/home/:id?",
+    "component": "/home/riaan/WebstormProjects/mastering-nuxt/pages/home/_id.vue",
+    "chunkName": "pages/home/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/riaan/WebstormProjects/mastering-nuxt/pages/index.vue",
+    "chunkName": "pages/index"
   }
 ]
